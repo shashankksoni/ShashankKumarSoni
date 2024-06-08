@@ -4,7 +4,7 @@ I am Shashank Kumar Soni, currently pursuing a postgraduate degree in Computer S
 
 ## Projects
 - [Project 1](link-to-project-1): **Book Store Web Application**
-  		-The Primary objective of the Bookstore Web Application is to provide a platform for users to browse, search, purchase, and sometimes review books online. It aims to offer a user friendly interface where 		 we can see, add new book data, edit and also delete the book data.
+  		-The Primary objective of the Bookstore Web Application is to provide a platform for users to browse, search, purchase, and sometimes review books online. It aims to offer a user friendly 			 interface where we can see, add new book data, edit and also delete the book data.
 	- Database Used: MongoDB, Stack Used: Express.js, Node.js, Web Development: React.js.
 - [Project 2](link-to-project-2): Description of project 2.
 
