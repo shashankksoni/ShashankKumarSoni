@@ -1,4 +1,3 @@
-```
 <h1 align="center">👋 Hi, I'm Shashank Kumar Soni</h1>
 
 <p align="center">
@@ -100,4 +99,4 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
   <br>
   <b>Built with ❤️ by Shashank Kumar Soni</b>
 </p>
-```
+
