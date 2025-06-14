@@ -12,7 +12,11 @@
 
 ---
 
-🎓 I have completed my **M.Tech in Computer Science & Engineering (Analytics)** from **NIT Delhi**. I’m passionate about solving real-world problems through full-stack development, mobile applications, and data-driven thinking.
+🎓 I’ve completed my **M.Tech in Computer Science & Engineering (Analytics)** from **NIT Delhi**, where I honed my passion for solving real-world problems through tech.
+
+🚀 My core strengths lie in **full-stack web and mobile app development**, with hands-on experience using **React Native, Kotlin (Jetpack Compose), and MERN stack**, alongside an emerging focus in **data science and ML**.
+
+💡 I love building clean, scalable apps and backend systems that deliver great user experiences. I'm also actively contributing to open-source and research initiatives that align with emerging tech trends.
 
 ---
 
