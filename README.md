@@ -93,6 +93,11 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
 - Android Jetpack Libraries (Navigation, Room, Hilt)
 - System Design Basics
 - Writing scalable backends with Express & Mongo
+- Data Science (Python, Pandas, NumPy, Scikit-learn, Matplotlib)
+- Machine Learning concepts and model building
+- Publishing notebooks on Kaggle(Navigation, Room, Hilt)
+- System Design Basics
+- Writing scalable backends with Express & Mongo
 - Data Science (Python, Pandas, NumPy, Visualization, ML basics)
 
 ---
@@ -105,6 +110,8 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankksoni&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankksoni&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shashankksoni&theme=tokyo-night" />
 </p>
 
 ---
@@ -112,3 +119,33 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
 ## 💬 Fun Fact
 
 > "Code is poetry. I write logic with rhythm, bugs just remix it."
+
+## 🏷️ Tech Badge Showcase
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🌍 Visitor Location
+
+<img src="https://api.visitorbadge.io/api/visitors?path=shashankksoni&label=Visitors&labelColor=%23000000&countColor=%23d9e3f0&style=flat-square" />
+
+## 📬 Open Source Contributions
+
+- 🛠️ *Coming Soon:* Contributions to open-source repositories with PRs for mobile bug fixes and documentation improvements.
+
+## 🎭 Dev Moodboard
+
+💻 Code > Sleep → Repeat  
+☕ Mostly powered by chai, sometimes coffee  
+💬 Favorite Motto: "Stay curious. Keep building."
+
+---
