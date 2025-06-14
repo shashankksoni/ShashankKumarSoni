@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm Shashank Kumar Soni</h1>
 
 <p align="center">
@@ -18,14 +19,22 @@
 ## 🚀 Featured Projects
 
 ### 📱 [React Native WebView App](https://github.com/shashankksoni/ReactNativeWebViewApp)
-A cross-platform mobile app using **React Native** and **Expo** to wrap any website inside a WebView. Features include dark mode, pull-to-refresh, error handling, and mobile responsiveness.
+A cross-platform mobile app using **React Native** and **Expo** to wrap any website inside a WebView.
+
+- Supports dark mode, error screens, and pull-to-refresh functionality
+- Hot reload via Expo for quick testing and debugging
+- Designed to be scalable for business or academic use using **React Native** and **Expo** to wrap any website inside a WebView. Features include dark mode, pull-to-refresh, error handling, and mobile responsiveness.
 
 > **Tech Stack:** React Native, Expo, Kotlin, Android SDK
 
 ---
 
 ### 📲 [Android WebView App](https://github.com/shashankksoni/AndroidWebViewApp)
-A native Android app built using **Kotlin** and **Jetpack Compose** that renders secure, responsive web content inside a WebView. Includes back press support, DOM storage, and error handling.
+A native Android app built using **Kotlin** and **Jetpack Compose** that renders secure, responsive web content inside a WebView.
+
+- Built-in error handling and retry mechanism
+- DOM storage and back navigation support
+- Fully responsive design using modern Compose layouts built using **Kotlin** and **Jetpack Compose** that renders secure, responsive web content inside a WebView. Includes back press support, DOM storage, and error handling.
 
 > **Tech Stack:** Kotlin, Jetpack Compose, Material 3, WebView
 
@@ -79,24 +88,27 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
 
 ---
 
-## 📫 Let's Connect!
+## 🧠 Currently Learning
+
+- Android Jetpack Libraries (Navigation, Room, Hilt)
+- System Design Basics
+- Writing scalable backends with Express & Mongo
+- Data Science (Python, Pandas, NumPy, Visualization, ML basics)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/s-k-soni/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="mailto:shashanksoni192@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/shashankksoni"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
-  <a href="https://twitter.com/SKS9794"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter" /></a>
-</p>
-
-<p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shashankksoni.shashankksoni)
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankksoni&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankksoni&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankksoni&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br>
-  <b>Built with ❤️ by Shashank Kumar Soni</b>
-</p>
+## 💬 Fun Fact
 
+> "Code is poetry. I write logic with rhythm, bugs just remix it."
