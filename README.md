@@ -22,7 +22,7 @@
 
 ## 🔗 Live Portfolio Site
 
-🎯 Check out my portfolio here: [**portfolio-site.vercel.app**](https://portfolio-site-hssamsbaq-shashanks-projects-f41961e9.vercel.app/)
+🎯 Check out my portfolio here: [**portfolio-site.vercel.app**](https://portfolio-site-i8fsbykmy-shashanks-projects-f41961e9.vercel.app)
 
 ---
 
