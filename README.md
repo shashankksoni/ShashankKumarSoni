@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=M.Tech+Graduate+from+NIT+Delhi;Mobile+App+Developer+%7C+Full+Stack+Engineer;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=M.Tech+Graduate+from+NIT+Delhi; Mobile+App+Developer+%7C+Full+Stack+Engineer;Open+Source+Contributor;Lifelong+Learner+%26+Tech+Explorer"/>
 </p>
 
 ---
