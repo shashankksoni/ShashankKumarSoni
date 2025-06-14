@@ -1,46 +1,45 @@
-```markdown
 <h1 align="center">Hi there! I'm Shashank Kumar Soni 👋</h1>
 
 <p align="center">
-  <i>A full-stack developer, data enthusiast, and problem-solver passionate about building impactful software solutions.</i>
+  <i>Full-stack developer | Kotlin & React Native Enthusiast | Passionate about building impactful tech</i>
 </p>
 
 ---
 
-🎓 I have completed my **M.Tech in Computer Science & Engineering (Analytics)** from **NIT Delhi**. With a solid background in software development, machine learning, and IoT, I bring both academic depth and real-world experience to every project I build or contribute to.
+🎓 I have completed my **M.Tech in Computer Science & Engineering (Analytics)** from **NIT Delhi**. I’m passionate about solving real-world problems through full-stack development, mobile applications, and data-driven thinking.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 [ReactNative WebView App](https://github.com/shashankksoni/ReactNativeWebViewApp)
-A cross-platform mobile app built using **React Native**, **Expo**, and **Kotlin (Jetpack)** that wraps any website inside a native mobile WebView. Supports dark mode, pull-to-refresh, error handling, and works on both Android & iOS.
+### 📱 [React Native WebView App](https://github.com/shashankksoni/ReactNativeWebViewApp)
+A cross-platform mobile app using **React Native** and **Expo** to wrap any website inside a WebView. Features include dark mode, pull-to-refresh, error handling, and mobile responsiveness.
 
-> Technologies: React Native, Kotlin, Expo, WebView, Android SDK
+> **Tech Stack:** React Native, Expo, Kotlin, Android SDK
 
 ---
 
 ### 📲 [Android WebView App](https://github.com/shashankksoni/AndroidWebViewApp)
-A Kotlin-based Android application built using **Jetpack Compose** and **Material 3**. It securely displays web content with advanced WebView features like JavaScript support, responsive rendering, and in-app navigation history.
+A native Android app built using **Kotlin** and **Jetpack Compose** that renders secure, responsive web content inside a WebView. Includes back press support, DOM storage, and error handling.
 
-> Technologies: Kotlin, Jetpack Compose, Material 3, Android WebView
+> **Tech Stack:** Kotlin, Jetpack Compose, Material 3, WebView
 
 ---
 
 ## 💻 Skills & Tools
 
 ### Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 
-### Frameworks & Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+### Frameworks & Libraries
 ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ### Tools
@@ -51,23 +50,25 @@ A Kotlin-based Android application built using **Jetpack Compose** and **Materia
 ---
 
 ## 📜 Certifications
+
 - Python for IoT – KIT, Kanpur (Oct 2021)
-- Fundamentals of Machine Learning – GeeksforGeeks (June 2019)
+- Machine Learning Fundamentals – GeeksforGeeks (June 2019)
 - ASP.Net with C# – H.Techsoft (July 2018)
 - C/C++ Programming – Aptech (June 2016)
 
 ---
 
 ## 🏆 Achievements
+
 - Academic Excellence Award – KIT, Kanpur (2018–2020)
-- Runner-up, NTPC Energy Essay Competition (2015)
+- Runner-up – NTPC Energy Conservation Essay Competition (2015)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/s-k-soni/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shashanksoni192@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:shashanksoni192@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/shashankksoni)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/SKS9794)
 
@@ -78,4 +79,3 @@ A Kotlin-based Android application built using **Jetpack Compose** and **Materia
 <p align="center">
   Built with ❤️ by Shashank Kumar Soni
 </p>
-```
