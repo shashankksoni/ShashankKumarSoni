@@ -49,8 +49,16 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
 
 ---
 
+## 📚 Publications
+
+- **Person Re-identification: A Retrospective Study, Recent Trends and Future Scope**  
+  Published in *First International Conference on Innovations in Computer Science & Digital Technologies (IC2SDT 2024)*. [IEEE Xplore](https://ieeexplore.ieee.org/document/10696378)
+
+---
+
 ## 📜 Certifications
 
+- Certified as a trainer for mentoring 1st and 2nd year B.Tech students in the IoT Training Program at AWaDH-CPS Lab, NIT Delhi, in collaboration with IIT Ropar (December 2024)
 - Python for IoT – KIT, Kanpur (Oct 2021)
 - Machine Learning Fundamentals – GeeksforGeeks (June 2019)
 - ASP.Net with C# – H.Techsoft (July 2018)
