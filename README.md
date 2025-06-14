@@ -120,9 +120,11 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankksoni&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankksoni&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shashankksoni&theme=tokyo-night" />
+<!--   <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shashankksoni&theme=tokyo-night" /> -->
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankksoni&theme=tokyo-night)
 
 ---
 
