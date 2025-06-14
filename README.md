@@ -52,7 +52,8 @@ A native Android app built using **Kotlin** and **Jetpack Compose** that renders
 ## 📚 Publications
 
 - **Person Re-identification: A Retrospective Study, Recent Trends and Future Scope**  
-  Published in *First International Conference on Innovations in Computer Science & Digital Technologies (IC2SDT 2024)*. [IEEE Xplore](https://ieeexplore.ieee.org/document/10696378)
+  Published in *First International Conference on Innovations in Computer Science & Digital Technologies (IC2SDT 2024)*. [IEEE Xplore](https://ieeexplore.ieee.org/document/10696378)  
+  **Abstract:** This paper presents a comprehensive overview of person re-identification (Re-ID) systems, covering their evolution, major challenges like viewpoint and lighting variation, and recent advancements using deep learning. We analyze multiple Re-ID techniques and datasets and suggest future directions such as real-time deployment and ethical concerns in surveillance applications.
 
 ---
 
